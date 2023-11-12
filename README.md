@@ -14,8 +14,10 @@
 
 🤳 **Coinflip Demo Showcase**:
 - 📱  - Dive into the ChadsBet Coinflip with the improved user experience.
+<img src="https://aquamarine-afraid-elk-411.mypinata.cloud/ipfs/QmXZLtG9tKZnFPvNqqKUQ3GZNzxZs1MBqrxCBDpc3CyNC4" alt="ChadsBet Image" title="ChadsBet Mobile Image" width="300" height="600" >
 
-<img src="https://aquamarine-afraid-elk-411.mypinata.cloud/ipfs/QmUSBwex1mpZvEvcpHuhmSXZyEf72YAgCJys2ChLQxqmfg" alt="ChadsBet Image" title="ChadsBet Image" width="200" height="200" >
+<img src="https://aquamarine-afraid-elk-411.mypinata.cloud/ipfs/QmUSBwex1mpZvEvcpHuhmSXZyEf72YAgCJys2ChLQxqmfg" alt="ChadsBet Image" title="ChadsBet PC Image" width="650" height="320" >
+
 
 
 🤝 **Collaborate with Us**:
