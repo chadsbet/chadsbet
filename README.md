@@ -13,8 +13,10 @@
 - 🌟 Redefine wins and embrace the Chad life with ChadsBet.
 
 🤳 **Coinflip Demo Showcase**:
-- 📱 ![Mobile Demo](https://aquamarine-afraid-elk-411.mypinata.cloud/ipfs/QmUSBwex1mpZvEvcpHuhmSXZyEf72YAgCJys2ChLQxqmfgE) - Experience the ChadsBet Coinflip on your PC!
-- 📱 ![iPhone Demo](https://aquamarine-afraid-elk-411.mypinata.cloud/ipfs/QmXZLtG9tKZnFPvNqqKUQ3GZNzxZs1MBqrxCBDpc3CyNC4) - Dive into the ChadsBet Coinflip with the mobile experience.
+- 📱  - Dive into the ChadsBet Coinflip with the improved user experience.
+
+<img src="https://aquamarine-afraid-elk-411.mypinata.cloud/ipfs/QmUSBwex1mpZvEvcpHuhmSXZyEf72YAgCJys2ChLQxqmfg" alt="ChadsBet Image" title="ChadsBet Image" width="200" height="200" >
+
 
 🤝 **Collaborate with Us**:
 - 👀 Interested in shaping the future of decentralized gaming? Collaborate with us!
